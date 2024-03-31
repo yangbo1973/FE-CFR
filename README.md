@@ -1,2 +1,2 @@
 # FE-CFR
-This is the code for "feature extraction counterfactual regression network".
+This is the code for "Feature Extraction Counterfactual Regression Network".
